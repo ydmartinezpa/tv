@@ -1,0 +1,19 @@
+#EXTM3U 
+#EXTINF:-1,CARACOL 
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=LQWSMaVBmHE1ulDE5DcOVHYwA38eXh5V&sid=CShB95IRLzOywBO4ciwO3BMEIjMenXhV&pid=KTlIxGXVdkP5tjlFbZXWGze8LwcRUxBE&an=screen&at=web-app&av=v5.2.224&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=809x455&without_cookies=false&dnt=true
+#EXTINF:-1, HBO 
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1,FOX SPORT 
+https://chupachichi3.site/live/flowitcj1qx.m3u8 
+#EXTINF:-1, FOX 
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1, TNT 
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1, ESPN
+https://djcbqdsbihjidcgf.wzcdn804.net:8443/hls/1j6gr5xa.m3u8?s=88WRK7_V5lxJI9apQ1Erqg&e=1645852383
+#EXTINF:-1, AXN
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1, CINECANAL
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1,CINEMAX
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
