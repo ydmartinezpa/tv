@@ -1,19 +1,23 @@
 #EXTM3U 
 #EXTINF:-1,CARACOL 
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=LQWSMaVBmHE1ulDE5DcOVHYwA38eXh5V&sid=CShB95IRLzOywBO4ciwO3BMEIjMenXhV&pid=KTlIxGXVdkP5tjlFbZXWGze8LwcRUxBE&an=screen&at=web-app&av=v5.2.224&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=809x455&without_cookies=false&dnt=true
-#EXTINF:-1, HBO 
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1,FOX SPORT 
-https://chupachichi3.site/live/flowitcj1qx.m3u8 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/59_.m3u8?token=89qsxx8MjGENKYz6uEio9g&expires=1645909234&ip=190.2.211.3
+#EXTINF:-1,SPACE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=Y9Z7whbl42m1KS5ef-UmHA&expires=1645908841&ip=190.2.211.3
 #EXTINF:-1, FOX 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=ir0IJM8ZsX8qHPQUaStCOQ&expires=1645908560&ip=190.2.211.3
 #EXTINF:-1, TNT 
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1, ESPN
-https://djcbqdsbihjidcgf.wzcdn804.net:8443/hls/1j6gr5xa.m3u8?s=88WRK7_V5lxJI9apQ1Erqg&e=1645852383
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=qELq_t_vKDrnKD5Fq_Z3Ag&expires=1645908790&ip=190.2.211.3
 #EXTINF:-1, AXN
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=nEHhIXQ_KWJ2EOyHQUANUQ&expires=1645909055&ip=190.2.211.3
+#EXTINF:-1, AMC
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=tsZe0xDdhVfZHp28BxJ3iw&expires=1645909121&ip=190.2.211.3
+#EXTINF:-1, FX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=NZr0iwgBkMX21kD8rnYE_g&expires=1645909154&ip=190.2.211.3
 #EXTINF:-1, CINECANAL
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=15B1_ZAf45brWiAfsnxYHQ&expires=1645908926&ip=190.2.211.3
 #EXTINF:-1,CINEMAX
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=9cC_g510dd8TeVMmdVeJGQ&expires=1645908958&ip=190.2.211.3
+#EXTINF:-1, ESPN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=iAXbf9e2TVSjEul_5_DfVg&expires=1645908875&ip=190.2.211.3
+#EXTINF:-1, DIRECTV SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=aqHzJhz3QULbGgERsarG-w&expires=1645908994&ip=190.2.211.3
