@@ -2,7 +2,7 @@
 #EXTINF:-1,CARACOL 
 https://djcbqdsbihjidcgf.wzcdn804.net:8443/hls/chias752g53h.m3u8?s=bimpR2VXOuVgs6fhIzXFRA&e=1646114190
 #EXTINF:-1,SPACE
-https://usher.ttvnw.net/api/channel/hls/cb_v1141.m3u8?allow_source=true&fast_bread=true&p=5410057&play_session_id=b6b65f1cce270c3c9f38324e26dedefc&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=6f18bb6c788067e7c0f914596aef108949bad4eb&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cb_v1141%22%2C%22channel_id%22%3A775037890%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22sjHjxjbAVs7E9M4q97YVnQDpczx3EWE8%22%2C%22expires%22%3A1646093893%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A232456979%2C%22user_ip%22%3A%22190.2.211.3%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.8.0
+http://tvporinternet.eshost.com.ar/m3u/space.m3u8
 #EXTINF:-1, FOX 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=0CUUyIrvfNExPYZnCmksJA&expires=1645985621&ip=190.2.211.3
 #EXTINF:-1, TNT 
